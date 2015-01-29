@@ -1,1 +1,13 @@
-div
+.container {
+  
+  width: 500px;
+  height: 500px;
+  background-color: gray;
+  
+}
+
+.grid {
+  width: 10px;
+  height: 10px;
+  background-color: black;
+}
